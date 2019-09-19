@@ -1,0 +1,59 @@
+# Directories
+bin/*
+lib/*
+obj/*
+.vs/*
+rubberband-sharp/obj/*
+
+# Compiled Object files
+*.user
+*.nupkg
+*.a
+*.o
+*.orig
+*.log
+*.bak
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Logs
+*.log
+
+# Python
+*.pyc
+
+# JUCE
+JuceLibraryCode/
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+*.DS_Store
+
+clear\.sh
+
+*.aux
+
+*.pdf
+
